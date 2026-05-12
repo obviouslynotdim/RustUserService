@@ -1,0 +1,11 @@
+D:\CADT-Y3\SideProject\rustminiproject\backend\target\release\deps\socket2-0d2b1cdf7215dc50.d: C:\Users\ROG\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.3\src\lib.rs C:\Users\ROG\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.3\src\sockaddr.rs C:\Users\ROG\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.3\src\socket.rs C:\Users\ROG\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.3\src\sockref.rs C:\Users\ROG\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.3\src\sys\windows.rs
+
+D:\CADT-Y3\SideProject\rustminiproject\backend\target\release\deps\libsocket2-0d2b1cdf7215dc50.rlib: C:\Users\ROG\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.3\src\lib.rs C:\Users\ROG\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.3\src\sockaddr.rs C:\Users\ROG\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.3\src\socket.rs C:\Users\ROG\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.3\src\sockref.rs C:\Users\ROG\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.3\src\sys\windows.rs
+
+D:\CADT-Y3\SideProject\rustminiproject\backend\target\release\deps\libsocket2-0d2b1cdf7215dc50.rmeta: C:\Users\ROG\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.3\src\lib.rs C:\Users\ROG\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.3\src\sockaddr.rs C:\Users\ROG\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.3\src\socket.rs C:\Users\ROG\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.3\src\sockref.rs C:\Users\ROG\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.3\src\sys\windows.rs
+
+C:\Users\ROG\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.3\src\lib.rs:
+C:\Users\ROG\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.3\src\sockaddr.rs:
+C:\Users\ROG\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.3\src\socket.rs:
+C:\Users\ROG\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.3\src\sockref.rs:
+C:\Users\ROG\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.3\src\sys\windows.rs:

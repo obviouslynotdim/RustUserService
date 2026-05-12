@@ -1,0 +1,9 @@
+D:\CADT-Y3\SideProject\rustminiproject\backend\target\debug\deps\postgres_types-7d6eec43d2226dd5.d: C:\Users\ROG\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\postgres-types-0.2.13\src\lib.rs C:\Users\ROG\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\postgres-types-0.2.13\src\pg_lsn.rs C:\Users\ROG\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\postgres-types-0.2.13\src\private.rs C:\Users\ROG\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\postgres-types-0.2.13\src\special.rs C:\Users\ROG\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\postgres-types-0.2.13\src\type_gen.rs
+
+D:\CADT-Y3\SideProject\rustminiproject\backend\target\debug\deps\libpostgres_types-7d6eec43d2226dd5.rmeta: C:\Users\ROG\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\postgres-types-0.2.13\src\lib.rs C:\Users\ROG\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\postgres-types-0.2.13\src\pg_lsn.rs C:\Users\ROG\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\postgres-types-0.2.13\src\private.rs C:\Users\ROG\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\postgres-types-0.2.13\src\special.rs C:\Users\ROG\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\postgres-types-0.2.13\src\type_gen.rs
+
+C:\Users\ROG\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\postgres-types-0.2.13\src\lib.rs:
+C:\Users\ROG\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\postgres-types-0.2.13\src\pg_lsn.rs:
+C:\Users\ROG\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\postgres-types-0.2.13\src\private.rs:
+C:\Users\ROG\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\postgres-types-0.2.13\src\special.rs:
+C:\Users\ROG\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\postgres-types-0.2.13\src\type_gen.rs:

@@ -1,0 +1,12 @@
+D:\CADT-Y3\SideProject\rustminiproject\backend\target\debug\deps\getrandom-02e574f93646d035.d: C:\Users\ROG\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.4.2\src\lib.rs C:\Users\ROG\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.4.2\src\backends.rs C:\Users\ROG\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.4.2\src\error.rs C:\Users\ROG\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.4.2\src\util.rs C:\Users\ROG\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.4.2\src\error_std_impls.rs C:\Users\ROG\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.4.2\src\sys_rng.rs C:\Users\ROG\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.4.2\src\../README.md C:\Users\ROG\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.4.2\src\backends\windows.rs
+
+D:\CADT-Y3\SideProject\rustminiproject\backend\target\debug\deps\libgetrandom-02e574f93646d035.rmeta: C:\Users\ROG\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.4.2\src\lib.rs C:\Users\ROG\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.4.2\src\backends.rs C:\Users\ROG\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.4.2\src\error.rs C:\Users\ROG\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.4.2\src\util.rs C:\Users\ROG\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.4.2\src\error_std_impls.rs C:\Users\ROG\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.4.2\src\sys_rng.rs C:\Users\ROG\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.4.2\src\../README.md C:\Users\ROG\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.4.2\src\backends\windows.rs
+
+C:\Users\ROG\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.4.2\src\lib.rs:
+C:\Users\ROG\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.4.2\src\backends.rs:
+C:\Users\ROG\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.4.2\src\error.rs:
+C:\Users\ROG\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.4.2\src\util.rs:
+C:\Users\ROG\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.4.2\src\error_std_impls.rs:
+C:\Users\ROG\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.4.2\src\sys_rng.rs:
+C:\Users\ROG\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.4.2\src\../README.md:
+C:\Users\ROG\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.4.2\src\backends\windows.rs:
